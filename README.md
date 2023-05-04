@@ -87,3 +87,23 @@ The scientists had no idea what they were about to unleash. As they activated th
 As the energy field grew, it began to warp the fabric of space and time. The scientists watched in horror as reality itself began to unravel. They knew that they had made a terrible mistake, and that they had unleashed a force that they could not control.
 
 The Quantum Experiment had opened a portal to another dimension, and something was coming through. Something that was not of this world. Something that would change the course of human history forever.
+
+## Story Title
+
+Selected Title: The Last Human
+
+## Story
+
+Once upon a time, in a world far away, there was a human named John. He was the last human on Earth, and he knew it. He had been alone for years, wandering the empty streets of the cities that once teemed with life. He had seen the world change, watched as the oceans rose and the forests burned. He had seen the last of the animals die, and he had seen the last of the plants wither away.
+
+One day, John decided to leave the Earth. He built a spaceship, using the knowledge he had gained from the books he had read and the videos he had watched. He launched the ship into space, and watched as the Earth grew smaller and smaller in the distance.
+
+As he traveled through the stars, John thought about the past. He thought about the people he had known, the places he had been, and the things he had seen. He thought about the beauty of the world, and the tragedy of its destruction. And he thought about the future, and what it might hold.
+
+After many years of traveling, John arrived at a new planet. It was a beautiful planet, with blue skies and green forests. There were animals there, and plants, and even other humans. John was amazed. He had never seen anything like it before.
+
+He landed his ship on the planet, and stepped out onto the surface. The other humans greeted him warmly, and showed him around their world. They told him about their history, and their culture, and their hopes for the future.
+
+John was happy to be among other humans again. He felt like he had found a new home, a new family. And he knew that he would never forget the Earth, or the people and animals and plants that had once lived there. But he also knew that he had found something new, something beautiful, something worth living for.
+
+![Image](./<image_file_name>)
